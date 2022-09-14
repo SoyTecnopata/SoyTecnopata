@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi people 👋
+
+My pronous are She/her
+
+I’m a DevOps Engineer, Mechatronics Engineer by training from México 🇲🇽.
+
+I was a digital nomad traveling through europe 🇪🇺 after a while I settled in Spain and here I am.
+
+
+## 💻 Tech stack
+
+- Terrafom
+- Python
+- Bash
+- Arduino
+
+## 🤍 Let’s connect
+
+- [Linked In](https://www.linkedin.com/in/almagonzalezengineer/)
 
 <!--
 **SoyTecnopata/SoyTecnopata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
